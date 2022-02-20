@@ -81,21 +81,21 @@ header{
 
 header .logo{
     font-size: 2rem;
-    color:var(--purple);
+    color:var(--lg-blue);
 }
 
 header .logo span{
-    color:var(--pink);
+    color:var(--blue);
 }
 
 header .navbar a{
     font-size: 1.7rem;
     margin-left: 2rem;
-    color:var(--purple);
+    color:var(--lg-blue);
 }
 
 header .navbar a:hover{
-    color:var(--pink);
+    color:var(--blue);
 }
 
 header input{
